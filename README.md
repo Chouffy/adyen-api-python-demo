@@ -1,4 +1,4 @@
-# Adyen API Integration in Python - Demo
+# Adyen Online Payments API: Integration in Python - Demo
 
 This repo contain a rough implementation of the [Adyen API](https://docs.adyen.com/checkout/api-only) in Python.
 The goal was to make a simple payment module to be used for donation or licensing purpose.
